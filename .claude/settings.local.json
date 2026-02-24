@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(nix develop:*)",
+      "Bash(git commit:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:cli.urfave.org)",
+      "WebFetch(domain:flokli.de)",
+      "WebFetch(domain:www.tweag.io)",
+      "WebFetch(domain:discourse.nixos.org)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "mcp__fetch__imageFetch",
+      "Bash(go get:*)",
+      "Bash(go env:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(go doc:*)",
+      "Bash(go vet:*)",
+      "Bash(nix-instantiate:*)",
+      "Bash(go run:*)",
+      "WebFetch(domain:snix.dev)",
+      "Bash(nix-store --delete:*)",
+      "Bash(go mod tidy:*)"
+    ]
+  }
+}
