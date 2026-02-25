@@ -1,0 +1,1 @@
+Derive([("out","/nix/store/hb52adfjyg1hrg9sz63838xmjrc1qs8h-sample","","")],[],[],"aarch64-darwin","/bin/sh",["-c","echo hello3 > $out"],[("builder","/bin/sh"),("name","hello"),("out","/nix/store/hb52adfjyg1hrg9sz63838xmjrc1qs8h-sample"),("system","aarch64-darwin")])

@@ -23,7 +23,9 @@
       "Bash(go run:*)",
       "WebFetch(domain:snix.dev)",
       "Bash(nix-store --delete:*)",
-      "Bash(go mod tidy:*)"
+      "Bash(go mod tidy:*)",
+      "Bash(git status:*)",
+      "Bash(git push:*)"
     ]
   }
 }
